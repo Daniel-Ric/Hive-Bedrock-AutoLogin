@@ -52,8 +52,8 @@ A lightweight, configurable CLI tool written in Go that automatically connects t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hivebedrock-autoconnector.git
-cd hivebedrock-autoconnector
+https://github.com/Daniel-Ric/Hive-Bedrock-AutoLogin.git
+cd Hive-Bedrock-AutoLogin
 
 # Build the binary
 go build -o hb-connector ./cmd/connector
